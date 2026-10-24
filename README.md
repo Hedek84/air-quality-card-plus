@@ -49,13 +49,13 @@ A custom Home Assistant Lovelace card designed to visualize **outdoor and indoor
 
 ## Screenshots
 
-| Card & Tooltip | Recommendation Banner |
-| :---: | :---: |
-| ![Tooltip Preview](./img/card-tooltip.png) | ![Recommendation Preview](./img/card-recommendation.png) |
+| Card & Tooltip |
+| :---: | 
+| ![Tooltip Preview](./img/card-tooltip.png) |
 
-| Visual Editor |
-| :---: |
-| ![Visual Editor](./img/card-editor.png) |
+| Visual Editor | |
+| :---: | :---: |
+| ![Visual Editor](./img/card-editor-1.png) | ![Visual Editor](./img/card-editor-2.png) |
 
 ---
 
