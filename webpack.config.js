@@ -4,9 +4,9 @@ const compressionPlugin = require('compression-webpack-plugin');
 
 module.exports = {
     mode: 'production',
-    entry: path.resolve(__dirname, 'src', 'air-quality-card.ts'),
+    entry: './src/air-quality-card.ts',
     output: {
-        filename: 'air-quality-card.js',
+        filename: 'air-quality-card-plus.js',
         path: path.resolve(__dirname, 'dist'),
         chunkFilename: undefined,
     },
